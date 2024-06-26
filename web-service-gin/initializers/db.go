@@ -1,4 +1,4 @@
-package main
+package initializers
 
 import (
 	"gorm.io/driver/sqlite" // Sqlite driver based on CGO
