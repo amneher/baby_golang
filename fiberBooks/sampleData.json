@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Ursula K. LeGuin",
+        "birthdate": "1938-05-22T12:00:00.000",
+        "deceased": false,
+        "genre": "Science Fiction",
+        "books": []
+    },
+    {
+        "name": "Agatha Christie",
+        "birthdate": "1867-11-04T12:00:00.000",
+        "deceased": true,
+        "genre": "Mystery",
+        "books": []
+    },
+    {
+        "name": "J.K. Rowling",
+        "birthdate": "1950-04-14",
+        "deceased": false,
+        "genre": "Fantasy",
+        "books": []
+    },
+    {
+        "name": "Haruki Murakami",
+        "birthdate": "1967-06-22",
+        "deceased": false,
+        "genre": "Fiction",
+        "books": []
+    },
+    {
+        "name": "Terry Pratchett",
+        "birthdate": "1928-03-17",
+        "deceased": true,
+        "genre": "Fantasy",
+        "books": []
+    }
+]
